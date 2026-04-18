@@ -12,6 +12,8 @@
 
 <img width="1910" height="938" alt="{9DB35F25-7EF7-4F48-A5CD-6A1B2C318B70}" src="https://github.com/user-attachments/assets/405a09a4-dca5-409f-ac68-e942da0d1a91" />
 
+---
+
 ** Available to Purchase - link : https://narcisse51.gumroad.com/l/wstfrk **
 
 A fully self-contained **Solana meme coin scalping bot** that runs entirely in your browser — no server, no backend, no installation required beyond Python or Node.js for a local HTTP server.
