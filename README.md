@@ -10,9 +10,19 @@
 
 ## What is this?
 
+<img width="1910" height="938" alt="{9DB35F25-7EF7-4F48-A5CD-6A1B2C318B70}" src="https://github.com/user-attachments/assets/405a09a4-dca5-409f-ac68-e942da0d1a91" />
+
+** Available to Purchase - link : https://narcisse51.gumroad.com/l/wstfrk **
+
 A fully self-contained **Solana meme coin scalping bot** that runs entirely in your browser — no server, no backend, no installation required beyond Python or Node.js for a local HTTP server.
 
 **Strategy: Scalp Machine** — catches micro-moves of 1–3% on high-liquidity meme coins using rapid open/close cycles with tight TP and SL. Based on live testing, the bot becomes consistently profitable with a **minimum deposit of 4–6 SOL (~$300–$500 at current prices)**.
+
+---
+
+
+** Available to Purchase - link : https://narcisse51.gumroad.com/l/wstfrk **
+
 
 ---
 
@@ -79,16 +89,7 @@ A fully self-contained **Solana meme coin scalping bot** that runs entirely in y
 
 ---
 
-## Quick Start (Linux)
-
-### Step 1 — Clone the repository
-
-```bash
-git clone https://github.com/Anvexis/solmeme-bot.git
-cd solmeme-bot
-```
-
-### Step 2 — Start a local HTTP server
+### Step 1 — Start a local HTTP server
 
 **Option A — Python 3** (recommended, available on almost all Linux systems):
 
@@ -188,6 +189,9 @@ From live testing sessions:
 - With **6+ SOL deposit (~480$)** — consistently positive session PnL
 
 The bot is a **scalper** — it makes many small trades. More capital = more positions open simultaneously = more profit per session.
+
+
+** Available to Purchase - link : https://narcisse51.gumroad.com/l/wstfrk **
 
 ---
 
