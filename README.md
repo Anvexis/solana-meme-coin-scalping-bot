@@ -200,6 +200,15 @@ The bot is a **scalper** — it makes many small trades. More capital = more pos
 ## Custom License
 
 Only i am the owner of this product, and only i can sell it and share.
+All rights reserved.
+
+You may not:
+- copy
+- modify
+- redistribute
+- resell
+
+Access is granted only via paid license.
 
 ---
 
